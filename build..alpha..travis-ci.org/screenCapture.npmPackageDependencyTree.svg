@@ -138,7 +138,7 @@
 <tspan x="10" y="2170">  │ └── string-template@0.2.1 </tspan>
 <tspan x="10" y="2186">  ├─┬ node-fetch@1.6.3 </tspan>
 <tspan x="10" y="2202">  │ ├─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="2218">  │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="2218">  │ │ └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="2234">  │ └── is-stream@1.1.0 </tspan>
 <tspan x="10" y="2250">  └─┬ yargs@3.32.0 </tspan>
 <tspan x="10" y="2266">    ├── camelcase@2.1.1 </tspan>
